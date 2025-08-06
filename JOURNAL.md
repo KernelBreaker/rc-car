@@ -12,8 +12,7 @@ I spent quite a lot of time (as I'm a beginner) doing research on what parts I w
 - Custom 3D printed frame (probably in a Corvette ZR1X shape)
 - Custom 3D printed wheels
 - [LiPo Battery](https://fr.aliexpress.com/item/4000389770504.html) - $8.99
-- 2 [10,000 RPM RS555 brushed motors](https://fr.aliexpress.com/item/4000472195699.html) - $3.10
-- [BTS7960 motor driver](https://fr.aliexpress.com/item/1005009130512928.html) - $1.79
+- 2 [A2212 KV2700 brushless motor with a 30A ESC](https://fr.aliexpress.com/item/1005007124456257.html) - $7.18
 - MG996R servomotor for steering
 - [Buck Convertor](https://fr.aliexpress.com/item/1005006911398521.html) - $0.99
 - Accelerometer (not mandatory)
